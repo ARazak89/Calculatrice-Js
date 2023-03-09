@@ -25,4 +25,4 @@ let equal = document.querySelector('.btn-equal');
         clear.addEventListener('click',function(e){
         screen.value= "";
      })
-})();
+})()
